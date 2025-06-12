@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Directorios de build (si usas herramientas como Webpack, Gulp, etc.)
+dist/
+build/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Config de editores
+.vscode/
+.idea/
+
+# Logs y archivos de entorno
+*.log
+.env
+
+# Archivos de mapeo del navegador
+*.map
